@@ -44,5 +44,5 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 - Matplotlib 3.7.1
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@Harsh3052] - feel free to contact me!
 
